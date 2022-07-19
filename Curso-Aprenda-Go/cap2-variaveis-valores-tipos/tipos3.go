@@ -36,5 +36,9 @@ func main() {
 	x, z := 20, 30
 
 	fmt.Printf("x: %v, %T\n", x, x)
-	fmt.Printf("z: %v, %T", z, z)
+	fmt.Printf("z: %v, %T\n\n", z, z)
+
+	a := 5 + 5 // conta
+
+	fmt.Printf("a: %v, %T\n", a, a)
 }
