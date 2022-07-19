@@ -18,3 +18,10 @@
 # Trabalha com pacotes
 - Para gerar algo em Go, você precisa ao menos ter o package main
 - Com ele você consegue importar outros pacotes
+
+
+# OO via composição e não herança
+- Biblioteca padrão poderosa, etc
+- Criar interfaces e compor outras
+- Composição é bem mais rápido que herança (mais performático)
+- Isso ajuda no reaproveitamento do código
