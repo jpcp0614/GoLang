@@ -41,4 +41,8 @@ func main() {
 	a := 5 + 5 // conta
 
 	fmt.Printf("a: %v, %T\n", a, a)
+
+	b := 10 < 10
+
+	fmt.Printf("b: %v, %T\n", b, b)
 }
