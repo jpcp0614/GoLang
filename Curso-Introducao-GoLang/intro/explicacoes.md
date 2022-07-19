@@ -25,3 +25,19 @@
 - Criar interfaces e compor outras
 - Composição é bem mais rápido que herança (mais performático)
 - Isso ajuda no reaproveitamento do código
+
+
+# Quem está usando Go
+- Google, Basecamp, Globo.com, MercadoLivre, Canonical
+- DigitalOcean, Dropbox, Github
+- etc
+
+
+# Usada
+- API's
+- Microservices
+- IoT
+- Databases
+- Aplicativos CLI (GitHub, Heroku, Docker)
+- LambdaFunctions (Amazon)
+- Regras de negócios em Go
